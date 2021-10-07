@@ -1,16 +1,11 @@
-### Hi there 👋
+  <img alt= "stats card"  height="200px"  width="400"  src="https://github-readme-stats.vercel.app/api?username=shaan-mephobic&count_private=true&theme=github_dark&show_icons=true" />
+  
+  <img alt= "streaks card"  height="200px"  width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=shaan-mephobic&theme=holi-theme">
+   
+  <img alt = "lang" height= "200px" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaan-mephobic&layout=compact&theme=github_dark">
 
-<!--
-**shaan-mephobic/shaan-mephobic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h4>
+      "I can't swing like Sinatra, play guitar like Hendrix or save the world or end it. I'm guided by a beating heart. I can't tell where this journey will end, but I know where to start"
+  </h4>
+  
+  <a href = "mailto: sincerelyshaan@pm.me">sincerelyshaan@pm.me</a>
