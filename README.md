@@ -1,3 +1,4 @@
+  <center>
   <img alt= "stats card"  height="200px"  width="400"  src="https://github-readme-stats.vercel.app/api?username=shaan-mephobic&count_private=true&theme=github_dark&show_icons=true" />
   
   <img alt= "streaks card"  height="200px"  width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=shaan-mephobic&theme=holi-theme">
@@ -9,3 +10,4 @@
   </h4>
   
   <a href = "mailto: sincerelyshaan@pm.me">sincerelyshaan@pm.me</a>
+  </center>
