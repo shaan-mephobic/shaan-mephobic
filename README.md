@@ -6,7 +6,7 @@
 <br> -->
 <!-- <img align="center" alt="lang" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaan-mephobic&layout=compact&theme=github_dark"> -->
 <h4 align="center">
-  "I can't swing like Sinatra, play guitar like Hendrix or save the world or end it."
+  "I can't swing like Sinatra, play guitar like Hendrix nor save the world or end it."
 </h4>
 <a href = "mailto: sincerelyshaan@pm.me">sincerelyshaan@pm.me</a>
 </div>
