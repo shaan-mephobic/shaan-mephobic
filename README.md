@@ -1,4 +1,5 @@
 <div align = "center">
+<h3>My StackOverflow</h3>
 <a href="https://stackoverflow.com/users/14595863/shaan-mephobic" target="_blank">
   <img align="center" alt="stackoverflow" src="https://github-readme-stackoverflow.vercel.app/?userID=14595863&theme=dark">
 </a>
@@ -9,7 +10,7 @@
 <br> -->
 <!-- <img align="center" alt="lang" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaan-mephobic&layout=compact&theme=github_dark"> -->
 <h4 align="center">
-  "I can't swing like Sinatra, play guitar like Hendrix nor save the world or end it."
+  Your only limitation is your willingness to independently learn and experiment.
 </h4>
-<a href = "mailto: sincerelyshaan@pm.me">sincerelyshaan@pm.me</a>
+<a href = "mailto: sincerelyshaan@protonmail.com">sincerelyshaan@protonmail.com</a>
 </div>
